@@ -15,4 +15,5 @@ Because the presentation is supplied within the system, the passenger may change
 ## Codacy and Codiga Badges
 ![Code quality score](https://api.codiga.io/project/33102/score/svg)
 ![Code_Grade](https://api.codiga.io/project/33102/status/svg)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d684a9667c0e4b598acdc5d887aaf04f)](https://app.codacy.com/gh/theparthzala/M2_Heatcontrol?utm_source=github.com&utm_medium=referral&utm_content=theparthzala/M2_Heatcontrol&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8e1ae93dadf84837a26e50353b6a23de)](https://www.codacy.com/gh/theparthzala/M2_Heatcontrol/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=theparthzala/M2_Heatcontrol&amp;utm_campaign=Badge_Grade)
