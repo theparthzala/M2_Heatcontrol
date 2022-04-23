@@ -4,3 +4,4 @@ present, our machine begins to evolve its functionality. So, in recent years, ev
 has been digitised, and everyone is looking for new products to make their lives simpler. 
 The main goal of our project is to design and expand a system that can track a 
 passenger's life as well as monitor and display heat.
+
