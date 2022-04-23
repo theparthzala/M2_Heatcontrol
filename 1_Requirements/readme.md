@@ -40,3 +40,27 @@ Below shows two images where in the 1st image shows the status of the simulation
 | HLR5                   | Atmega328             |
 
 
+# S.W.O.T Analysis
+
+## Strengths
+Easy to adjust the temperature value. 
+The machine is robust.
+Low cost.
+Modular Based Programs. 
+User Friendly.
+## Weakness
+It's handiest beneficial for the international locations which might be having low temperature.
+Opportunities
+It can be practised by replacing heater by air conditioners so that it will be usefull in all the countries
+Threats
+Not suitable for average or high temperature environment.
+
+
+## 4W,s And 1H
+### WHAT : Temperature Monitoring System
+### WHERE : Used in Automotive Industries 
+### WHEN : At low Temperature
+### WHY : To Detect and nullify required temperature.
+### How : Using atmega328/p microcontroller
+
+
