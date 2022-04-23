@@ -1,4 +1,4 @@
-| Low Level Requirements |  Description       |
+| High Level Requirements |  Description       |
 | ---------------------- | ----------------   |
 | HLR1                   | Temperature sensor |
 | HLR2                   | Switches           |
