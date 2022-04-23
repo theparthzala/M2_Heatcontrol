@@ -1,8 +1,8 @@
-| Low Level Requirements |  Discription |
-| ------------- | ------------- |
-| HLR1 | Content Cell  |
-| HLR2 | Content Cell  |
-| HLR3 |
-| HLR4 |
-| HLR5 |
-| HLR6 |
+| Low Level Requirements |  Description |
+| ------------- | ---------------- |
+| HLR1          |Temperature sensor|
+| HLR2          |Switches          |
+| HLR3          |Heat Generation   |
+| HLR4          |Microcontroller   |
+| HLR5          |Software used     |
+| HLR6          |Display           |
